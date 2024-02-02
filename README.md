@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on python projects with undergrads
 - 🤔 I’m looking for help with guidance for my coding journey
 - 💬 Ask me about python
-- 📫 How to reach me: RITHVIK L [Linkedin] www.linkedin.com/in/rithvik-l-4a3243279
+- 📫 How to reach me: RITHVIK L  www.linkedin.com/in/rithvik-l-4a3243279  [Linkedin]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Moon rises in the West
